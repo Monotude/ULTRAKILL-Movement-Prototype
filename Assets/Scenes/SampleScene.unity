@@ -255,8 +255,8 @@ MonoBehaviour:
     m_Bits: 8
   groundCheck: {fileID: 1242252199}
   jumpForce: 7
-  dashSpeed: 18
-  dashLength: 0.4
+  dashSpeed: 22
+  dashLength: 0.33
   maxStamina: 3
   staminaRegen: 0.7
 --- !u!114 &138695582
